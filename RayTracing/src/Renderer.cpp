@@ -30,7 +30,6 @@ void Renderer::Render() {
 		}
 	}
 
-
 	m_FinalImage->SetData(m_ImageData);
 }
 
